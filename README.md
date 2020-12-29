@@ -1,0 +1,1 @@
+Angry birds final game where pigs vanish after getting hit and the bird resets back for another chance when space is pressed.
